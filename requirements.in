@@ -1,0 +1,4 @@
+pip-tools
+mnist
+scikit-learn
+pandas
